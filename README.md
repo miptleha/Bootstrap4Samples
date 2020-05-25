@@ -1,4 +1,4 @@
-This site on github pages: https://miptleha.github.io/Bootstrap4Samples/
+View on github pages: https://miptleha.github.io/Bootstrap4Samples/
 
 This is copy from [getbootstrap](https://getbootstrap.com/docs/4.5/examples/) page
 
